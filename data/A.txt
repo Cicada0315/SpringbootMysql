@@ -1,0 +1,5 @@
+row_number	product	brand	inventory
+1	KLMN	Honeywell	34
+2	HIJ	Taco	452
+3	OPQ	Panasonic	77
+4	ABC	Taco	10
